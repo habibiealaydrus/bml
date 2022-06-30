@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>/view/fontawesome-free-6.1.1-web/css/all.min.css">
 
     <!-- Bootstrap core CSS -->
-    <link href="<?= base_url(); ?>view/bootstrap-5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
         .bd-placeholder-img {
@@ -33,7 +33,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="<?= base_url(); ?>/view/carousel.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/carousel.css" rel="stylesheet">
 
     <title>Home</title>
 
@@ -53,12 +53,12 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     -->
 
-    <script src="view/bootstrap-5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    <script src="<?= base_url(); ?>dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 
 
 
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top text-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">CV Bintang Mitra Labdagati</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
