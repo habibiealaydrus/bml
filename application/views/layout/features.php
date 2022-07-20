@@ -3,7 +3,7 @@
      <div class="container">
          <div class="row align-items-center">
              <div class="col-lg-5">
-                 <img class="img-fluid w-100" src="img/feature.jpg" alt="">
+                 <img class="<?= base_url(); ?>/vendor/template/img-fluid w-100" src="<?= base_url(); ?>/vendor/template/img/feature.jpg" alt="">
              </div>
              <div class="col-lg-7 py-5 py-lg-0">
                  <h6 class="text-primary text-uppercase font-weight-bold">Why Choose Us</h6>

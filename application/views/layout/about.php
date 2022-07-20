@@ -3,7 +3,7 @@
      <div class="container">
          <div class="row align-items-center">
              <div class="col-lg-5 pb-4 pb-lg-0">
-                 <img class="img-fluid w-100" src="img/about.jpg" alt="">
+                 <img class="img-fluid w-100" src="<?= base_url(); ?>/vendor/template/img/about.jpg" alt="">
                  <div class="bg-primary text-dark text-center p-4">
                      <h3 class="m-0">25+ Years Experience</h3>
                  </div>
@@ -30,8 +30,8 @@
                          <span aria-hidden="true">&times;</span>
                      </button>
                      <!-- 16:9 aspect ratio -->
-                     <div class="embed-responsive embed-responsive-16by9">
-                         <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always" allow="autoplay"></iframe>
+                     <div>
+                         <iframe width="800" height="600" src="https://www.youtube.com/embed/6EDCnhbUpgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                      </div>
                  </div>
              </div>

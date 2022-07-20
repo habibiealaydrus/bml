@@ -14,6 +14,7 @@ class Home extends CI_Controller
         $this->load->view('layout/pricingplan');
         $this->load->view('layout/team');
         $this->load->view('layout/testimonial');
+        $this->load->view('layout/blog');
         $this->load->view('layout/footer');
     }
 }

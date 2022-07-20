@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-6 mb-5">
                 <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/blog-1.jpg" alt="">
+                    <img class="img-fluid w-100" src="<?= base_url(); ?>/vendor/template/img/blog-1.jpg" alt="">
                     <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle" style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
                         <h4 class="font-weight-bold mb-n1">01</h4>
                         <small class="text-white text-uppercase">Jan</small>
@@ -17,7 +17,7 @@
                 <div class="bg-secondary" style="padding: 30px;">
                     <div class="d-flex mb-3">
                         <div class="d-flex align-items-center">
-                            <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/user.jpg" alt="">
+                            <img class="rounded-circle" style="width: 40px; height: 40px;" src="<?= base_url(); ?>/vendor/template/img/user.jpg" alt="">
                             <a class="text-muted ml-2" href="">John Doe</a>
                         </div>
                         <div class="d-flex align-items-center ml-4">
@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-6 mb-5">
                 <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/blog-2.jpg" alt="">
+                    <img class="img-fluid w-100" src="<?= base_url(); ?>/vendor/template/img/blog-2.jpg" alt="">
                     <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle" style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
                         <h4 class="font-weight-bold mb-n1">01</h4>
                         <small class="text-white text-uppercase">Jan</small>
@@ -41,7 +41,7 @@
                 <div class="bg-secondary" style="padding: 30px;">
                     <div class="d-flex mb-3">
                         <div class="d-flex align-items-center">
-                            <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/user.jpg" alt="">
+                            <img class="rounded-circle" style="width: 40px; height: 40px;" src="<?= base_url(); ?>/vendor/template/img/user.jpg" alt="">
                             <a class="text-muted ml-2" href="">John Doe</a>
                         </div>
                         <div class="d-flex align-items-center ml-4">
