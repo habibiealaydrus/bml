@@ -6,6 +6,7 @@ class Admin extends CI_Controller
 
     public function index()
     {
-        $this->load->view('admin/index');
+        $data['judulhalaman'] = 'Admin Web BML';
+        $this->load->view('admin/index', $data);
     }
 }
