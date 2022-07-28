@@ -9,4 +9,10 @@ class Admin extends CI_Controller
         $data['judulhalaman'] = 'Admin Web BML';
         $this->load->view('admin/index', $data);
     }
+    public function adminpage()
+    {
+        $data['judulhalaman'] = 'Halaman Admin Web BML';
+        $data['judulaplikasi'] = 'Web Admin BML';
+        $this->load->view('admin/adminpage/index', $data);
+    }
 }
