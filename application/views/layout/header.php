@@ -64,17 +64,17 @@
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
             <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 display-5 text-uppercase text-primary">CV BML</h1>
+                <h1 class="m-0 display-5 text-uppercase text-primary">Bintang Mitra Labdagati</h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="service.html" class="nav-item nav-link">Service</a>
-                    <a href="price.html" class="nav-item nav-link">Price</a>
+                    <a href="index.html" class="nav-item nav-link active">Beranda</a>
+                    <a href="about.html" class="nav-item nav-link">Tentang</a>
+                    <a href="service.html" class="nav-item nav-link">Layanan</a>
+                    <a href="price.html" class="nav-item nav-link">Harga</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu rounded-0 m-0">
@@ -84,7 +84,6 @@
                     </div>
                     <a href="contact.html" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Get A Quote</a>
             </div>
         </nav>
     </div>
@@ -95,7 +94,7 @@
     <div class="jumbotron jumbotron-fluid mb-5">
         <div class="container text-center py-5">
             <h1 class="text-primary mb-4">Safe & Trusted</h1>
-            <h1 class="text-white display-3 mb-5">Permit & Undername Services</h1>
+            <h1 class="text-white display-3 mb-5">P & Undername Services</h1>
             <div class="mx-auto" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
                     <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Tracking Id">
