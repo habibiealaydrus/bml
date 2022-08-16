@@ -22,7 +22,7 @@
     <link href="<?= base_url(); ?>vendor/template/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="<?= base_url(); ?>/vendor/template/css/style.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>/vendor/support/css/style.css" rel="stylesheet">
 </head>
 
 <body>
