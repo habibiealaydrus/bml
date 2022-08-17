@@ -9,7 +9,7 @@
     <meta content="Free HTML Templates" name="description">
 
     <!-- Favicon -->
-    <link href="<?= base_url(); ?>/vendor/img/favicon.ico" rel="icon">
+    <link href="<?= base_url(); ?>/vendor/support/img/favicon.ico" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -64,7 +64,8 @@
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
             <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 display-5 text-uppercase text-primary">Bintang Mitra Labdagati</h1>
+
+                <h2 class="m-0 display-5 text-uppercase text-primary"><img src="<?= base_url() ?>vendor/support/img/logo.png" width="10%"> Bintang Mitra Labdagati</h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
