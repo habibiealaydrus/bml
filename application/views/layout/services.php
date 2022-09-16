@@ -9,33 +9,50 @@
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
                     <i class="fa fa-2x fa-plane text-dark pr-3"></i>
-                    <h6 class="text-white font-weight-medium m-0">Perizinan Ekspor/Import</h6>
+                    <h6 class="text-white font-weight-medium m-0">Export-Import</h6>
                 </div>
-                <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet diam sea est diam</p>
-                <a class="border-bottom text-decoration-none" href="">Read More</a>
+                <p>
+                <ul style="list-style: none;text-align:left;">
+                    <li>1. Custom clearance</li>
+                    <li>2. Karantina Tumbuhan</li>
+                    <li>3. Karantina Hewan</li>
+                </ul>
+                </p>
+                <a class="border-bottom text-decoration-none" href="">Lebih Lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-ship text-dark pr-3"></i>
-                    <h6 class="text-white font-weight-medium m-0">Customs Clearance</h6>
+                    <i class="fa fa-2x fa-capsules text-dark pr-3"></i>
+                    <h6 class="text-white font-weight-medium m-0">BPOM</h6>
                 </div>
-                <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet diam sea est diam</p>
-                <a class="border-bottom text-decoration-none" href="">Read More</a>
+                <p>
+                <ul style="list-style: none;text-align:left;">
+                    <li>1. SKI BPOM</li>
+                    <li>2. E-reg Pangan Olahan</li>
+                    <li>3. SMKPO-CPPOB</li>
+                </ul>
+                </p>
+                <a class="border-bottom text-decoration-none" href="">Lebih lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-truck text-dark pr-3"></i>
-                    <h6 class="text-white font-weight-medium m-0">Land Transport</h6>
+                    <i class="fa fa-2x fa-utensils text-dark pr-3"></i>
+                    <h6 class="text-white font-weight-medium m-0">Halal MUI-BPJPH</h6>
                 </div>
-                <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet diam sea est diam</p>
-                <a class="border-bottom text-decoration-none" href="">Read More</a>
+                <p>Suatu fatwa tertulis dari Majelis Ulama Indonesia (MUI) yang menyatakan kehalalan...</p>
+                <a class="border-bottom text-decoration-none" href="">Lebih lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
                     <i class="fa fa-2x fa-store text-dark pr-3"></i>
-                    <h6 class="text-white font-weight-medium m-0">Cargo Storage</h6>
+                    <h6 class="text-white font-weight-medium m-0">PIRT</h6>
                 </div>
-                <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet diam sea est diam</p>
+                <p>
+                <ul style="list-style: none;text-align: center;">
+                    <li><i class="fas fa-prescription-bottle-alt"></i> Alat Kesehatan</li>
+                    <li><i class="far fa-copyright"></i> Merek</li>
+                </ul>
+                </p>
                 <a class="border-bottom text-decoration-none" href="">Read More</a>
             </div>
         </div>

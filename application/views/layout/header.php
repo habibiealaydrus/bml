@@ -75,15 +75,14 @@
                     <a href="index.html" class="nav-item nav-link active">Beranda</a>
                     <a href="about.html" class="nav-item nav-link">Tentang</a>
                     <a href="service.html" class="nav-item nav-link">Layanan</a>
-                    <a href="price.html" class="nav-item nav-link">Harga</a>
-                    <div class="nav-item dropdown">
+                    <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu rounded-0 m-0">
                             <a href="blog.html" class="dropdown-item">Blog Grid</a>
                             <a href="single.html" class="dropdown-item">Blog Detail</a>
                         </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    </div> -->
+                    <a href="contact.html" class="nav-item nav-link">Kontak</a>
                 </div>
             </div>
         </nav>
