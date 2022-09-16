@@ -4,10 +4,10 @@
          <div class="col-lg-7 col-md-6">
              <div class="row">
                  <div class="col-md-6 mb-5">
-                     <h3 class="text-primary mb-4">Get In Touch</h3>
-                     <p><i class="fa fa-map-marker-alt mr-2"></i>Tanah Abang,Jakarta Pusat</p>
-                     <p><i class="fa fa-phone-alt mr-2"></i>+012 123343433</p>
-                     <p><i class="fa fa-envelope mr-2"></i>info@bml.com</p>
+                     <h3 class="text-primary mb-4">Hubungi Kami</h3>
+                     <p><i class="fa fa-map-marker-alt mr-2"></i>Kenanga 9 No.20, RT.001/RW.007, Uwung Jaya, Kec. Cibodas, Kota Tangerang, Banten 15132</p>
+                     <p><i class="fa fa-phone-alt mr-2"></i>08119449610</p>
+                     <p><i class="fa fa-envelope mr-2"></i>marketing@cvbml.com</p>
                      <div class="d-flex justify-content-start mt-4">
                          <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                          <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -27,7 +27,7 @@
                  </div>
              </div>
          </div>
-         <div class="col-lg-5 col-md-6 mb-5">
+         <!-- <div class="col-lg-5 col-md-6 mb-5">
              <h3 class="text-primary mb-4">Newsletter</h3>
              <p>Rebum labore lorem dolores kasd est, et ipsum amet et at kasd, ipsum sea tempor magna tempor. Accu kasd sed ea duo ipsum. Dolor duo eirmod sea justo no lorem est diam</p>
              <div class="w-100">
@@ -38,7 +38,7 @@
                      </div>
                  </div>
              </div>
-         </div>
+         </div> -->
      </div>
  </div>
  <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
