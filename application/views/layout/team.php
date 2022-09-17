@@ -12,7 +12,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-secondary">
                             <h5 class="font-weight-bold">Widi</h5>
-                            <span>Legal</span>
+                            <span>Direktur</span>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-primary">
                             <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
