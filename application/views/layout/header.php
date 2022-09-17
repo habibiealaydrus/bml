@@ -72,8 +72,8 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Beranda</a>
-                    <a href="about.html" class="nav-item nav-link">Tentang</a>
+                    <a href="<?= base_url() ?>" class="nav-item nav-link active">Beranda</a>
+                    <a href="<?= base_url() ?>tentang" class="nav-item nav-link">Tentang</a>
                     <a href="service.html" class="nav-item nav-link">Layanan</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
