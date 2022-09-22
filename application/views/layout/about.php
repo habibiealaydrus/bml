@@ -9,7 +9,10 @@
                  </div> -->
              </div>
              <div class="col-lg-7">
-                 <h6 class="text-primary text-uppercase font-weight-bold">Tentang Kami</h6>
+                 <h6 class="text-primary text-uppercase font-weight-bold">
+                     Tentang Kami
+
+                 </h6>
                  <h1 class="mb-4">Aman Dan Terpercaya</h1>
                  <p class="mb-4">Kami hadir untuk membantu anda dalam hal perizinan dan kepabeanan, pengalaman kami dalam hal perizinan dan kepabeanan serta di bantu dengan tenaga profesional akan memudahkan semua proses yang anda butuhkan. Kami berkomitmen untuk membantu anda, hingga semua kebutuhan perizinan dan kepabenanan untuk bisnis anda terpenuhi.</p>
                  <!-- <div class="d-flex align-items-center pt-2">

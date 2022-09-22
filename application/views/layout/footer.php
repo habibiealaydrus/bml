@@ -77,20 +77,21 @@
  <!-- JavaScript Libraries -->
  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
- <script src="<?= base_url(); ?>/vendor/support/lib/easing/easing.min.js"></script>
- <script src="<?= base_url(); ?>/vendor/support/lib/waypoints/waypoints.min.js"></script>
- <script src="<?= base_url(); ?>/vendor/support/lib/counterup/counterup.min.js"></script>
- <script src="<?= base_url(); ?>/vendor/support/lib/owlcarousel/owl.carousel.min.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/lib/easing/easing.min.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/lib/waypoints/waypoints.min.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/lib/counterup/counterup.min.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/lib/owlcarousel/owl.carousel.min.js"></script>
 
  <!-- Contact Javascript File -->
- <script src="<?= base_url(); ?>/vendor/support/mail/jqBootstrapValidation.min.js"></script>
- <script src="<?= base_url(); ?>/vendor/support/mail/contact.js"></script>
+ <!-- <script src="<?= base_url(); ?>vendor/support/mail/jqBootstrapValidation.min.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/mail/contact.js"></script> -->
 
  <!-- Template Javascript -->
- <script src="<?= base_url(); ?>/vendor/template/js/main.js"></script>
+ <script src="<?= base_url(); ?>vendor/template/js/main.js"></script>
  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
  <!-- fancybox -->
  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/js/nav.js"></script>
  </body>
 
  </html>

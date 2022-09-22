@@ -1,8 +1,8 @@
 <!-- Gallery  start-->
 <div class="container">
     <div class="row">
-        <div class="col-md-12" style="background-color: #7DCE13;">
-            <h4>Gallery</h4>
+        <div class="col-md-12" style="background-color: #7DCE13;padding:2%;">
+            <h4 class="text-white">Gallery</h4>
             <?php
             $dir = glob('vendor/support/img/gallery/{*.jpeg,*.jpg*.png}', GLOB_BRACE);
             foreach ($dir as $key => $value) {

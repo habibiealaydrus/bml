@@ -5,7 +5,8 @@ class Layanan extends CI_Controller
 {
     public function index()
     {
-        $this->load->view('layout/header');
+        $data['judul'] = 'Layanan';
+        $this->load->view('layout/header', $data);
         $this->load->view('layout/jumbotron3');
         $this->load->view('layout/services');
         $this->load->view('layout/footer');

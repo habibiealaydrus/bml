@@ -51,9 +51,10 @@
                 <ul style="list-style: none;text-align: center;">
                     <li><i class="fas fa-prescription-bottle-alt"></i> Alat Kesehatan</li>
                     <li><i class="far fa-copyright"></i> Merek</li>
+                    <li><i class="far fa-copyright"></i>Perizinan lain</li>
                 </ul>
                 </p>
-                <a class="border-bottom text-decoration-none" href="">Read More</a>
+                <a class="border-bottom text-decoration-none" href="">Lainnya</a>
             </div>
         </div>
     </div>

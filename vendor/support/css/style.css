@@ -10729,6 +10729,13 @@ p,
   background-size: cover;
 }
 
+.jumbotron2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/busyoffice.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .btn-play {
   position: relative;
   display: block;
