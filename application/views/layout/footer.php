@@ -87,7 +87,7 @@
  <script src="<?= base_url(); ?>vendor/support/mail/contact.js"></script> -->
 
  <!-- Template Javascript -->
- <script src="<?= base_url(); ?>vendor/template/js/main.js"></script>
+ <script src="<?= base_url(); ?>vendor/support/js/main.js"></script>
  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
  <!-- fancybox -->
  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>

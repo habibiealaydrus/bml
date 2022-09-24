@@ -18,7 +18,7 @@
                     <li>3. Karantina Hewan</li>
                 </ul>
                 </p>
-                <a class="border-bottom text-decoration-none" href="">Lebih Lanjut</a>
+                <a class="border-bottom text-decoration-none" href="<?= base_url(); ?>layanan/export">Lebih Lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
@@ -32,7 +32,7 @@
                     <li>3. SMKPO-CPPOB</li>
                 </ul>
                 </p>
-                <a class="border-bottom text-decoration-none" href="">Lebih lanjut</a>
+                <a class="border-bottom text-decoration-none" href="<?= base_url(); ?>layanan/bpom">Lebih lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
@@ -40,21 +40,21 @@
                     <h6 class="text-white font-weight-medium m-0">Halal MUI-BPJPH</h6>
                 </div>
                 <p>Suatu fatwa tertulis dari Majelis Ulama Indonesia (MUI) yang menyatakan kehalalan...</p>
-                <a class="border-bottom text-decoration-none" href="">Lebih lanjut</a>
+                <a class="border-bottom text-decoration-none" href="<?= base_url() ?>layanan/halal">Lebih lanjut</a>
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-store text-dark pr-3"></i>
-                    <h6 class="text-white font-weight-medium m-0">PIRT</h6>
+                    <i class="fa fa-2x fa-file text-dark pr-3"></i>
+                    <h6 class="text-white font-weight-medium m-0">Perizinan Lainnya</h6>
                 </div>
                 <p>
-                <ul style="list-style: none;text-align: center;">
+                <ul style="list-style: none;text-align: left;">
+                    <li><i class="fas fa-store"></i> PIRT</li>
                     <li><i class="fas fa-prescription-bottle-alt"></i> Alat Kesehatan</li>
                     <li><i class="far fa-copyright"></i> Merek</li>
-                    <li><i class="far fa-copyright"></i>Perizinan lain</li>
                 </ul>
                 </p>
-                <a class="border-bottom text-decoration-none" href="">Lainnya</a>
+                <a class="border-bottom text-decoration-none" href="<?= base_url() ?>layanan/lainnya">Lainnya</a>
             </div>
         </div>
     </div>

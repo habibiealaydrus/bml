@@ -5,7 +5,7 @@
          <div class="d-inline-flex align-items-center text-white">
              <p class="m-0"><a class="text-white" href="<?= base_url() ?>">Home</a></p>
              <i class="fa fa-circle px-3"></i>
-             <p class="m-0">Layanan</p>
+             <p class="m-0"><a class="text-white" href="<?= base_url() ?>layanan">Layanan</a></p>
          </div>
      </div>
  </div>

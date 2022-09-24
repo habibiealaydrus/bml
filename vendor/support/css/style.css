@@ -10906,3 +10906,16 @@ p,
 .gallery img {
   width: 100%;
 }
+
+.subservices {
+  color: green;
+}
+
+.subservices ul li {
+  color: green;
+  list-style: none;
+}
+
+.lainnya {
+  font-size: 1.2 rem;
+}
